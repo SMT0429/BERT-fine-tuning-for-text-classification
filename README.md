@@ -2,7 +2,7 @@
 
 使用 **BERT** 在 [IMDB Large Movie Review Dataset](https://aclanthology.org/P11-1015.pdf) 上做微調 (fine-tuning),完成電影評論的**二元情緒分類** (positive / negative)。
 
-> 輸入一句話 → 模型辨識其情緒傾向。本作業著重於熟悉 PyTorch 的訓練流程與 Transformer 家族中 BERT 的應用。
+> 輸入一句話 → 模型辨識其情緒傾向。熟悉 PyTorch 的訓練流程與 Transformer 家族中 BERT 的應用。
 
 ## 任務說明
 
